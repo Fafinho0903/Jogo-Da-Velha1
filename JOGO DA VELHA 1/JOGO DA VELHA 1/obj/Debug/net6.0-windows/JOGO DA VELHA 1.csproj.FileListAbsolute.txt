@@ -1,0 +1,17 @@
+D:\ana jullya\JOGO DA VELHA 1\JOGO DA VELHA 1\bin\Debug\net6.0-windows\JOGO DA VELHA 1.exe
+D:\ana jullya\JOGO DA VELHA 1\JOGO DA VELHA 1\bin\Debug\net6.0-windows\JOGO DA VELHA 1.deps.json
+D:\ana jullya\JOGO DA VELHA 1\JOGO DA VELHA 1\bin\Debug\net6.0-windows\JOGO DA VELHA 1.runtimeconfig.json
+D:\ana jullya\JOGO DA VELHA 1\JOGO DA VELHA 1\bin\Debug\net6.0-windows\JOGO DA VELHA 1.dll
+D:\ana jullya\JOGO DA VELHA 1\JOGO DA VELHA 1\bin\Debug\net6.0-windows\JOGO DA VELHA 1.pdb
+D:\ana jullya\JOGO DA VELHA 1\JOGO DA VELHA 1\obj\Debug\net6.0-windows\JOGO DA VELHA 1.csproj.AssemblyReference.cache
+D:\ana jullya\JOGO DA VELHA 1\JOGO DA VELHA 1\obj\Debug\net6.0-windows\JOGO_DA_VELHA_1.Form1.resources
+D:\ana jullya\JOGO DA VELHA 1\JOGO DA VELHA 1\obj\Debug\net6.0-windows\JOGO DA VELHA 1.csproj.GenerateResource.cache
+D:\ana jullya\JOGO DA VELHA 1\JOGO DA VELHA 1\obj\Debug\net6.0-windows\JOGO DA VELHA 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ana jullya\JOGO DA VELHA 1\JOGO DA VELHA 1\obj\Debug\net6.0-windows\JOGO DA VELHA 1.AssemblyInfoInputs.cache
+D:\ana jullya\JOGO DA VELHA 1\JOGO DA VELHA 1\obj\Debug\net6.0-windows\JOGO DA VELHA 1.AssemblyInfo.cs
+D:\ana jullya\JOGO DA VELHA 1\JOGO DA VELHA 1\obj\Debug\net6.0-windows\JOGO DA VELHA 1.csproj.CoreCompileInputs.cache
+D:\ana jullya\JOGO DA VELHA 1\JOGO DA VELHA 1\obj\Debug\net6.0-windows\JOGO DA VELHA 1.dll
+D:\ana jullya\JOGO DA VELHA 1\JOGO DA VELHA 1\obj\Debug\net6.0-windows\refint\JOGO DA VELHA 1.dll
+D:\ana jullya\JOGO DA VELHA 1\JOGO DA VELHA 1\obj\Debug\net6.0-windows\JOGO DA VELHA 1.pdb
+D:\ana jullya\JOGO DA VELHA 1\JOGO DA VELHA 1\obj\Debug\net6.0-windows\JOGO DA VELHA 1.genruntimeconfig.cache
+D:\ana jullya\JOGO DA VELHA 1\JOGO DA VELHA 1\obj\Debug\net6.0-windows\ref\JOGO DA VELHA 1.dll
